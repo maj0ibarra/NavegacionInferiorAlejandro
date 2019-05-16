@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">activity_horizontal_margin</dimen>
+    <dimen name="card_margin" />
+    <dimen name="card_album_radius" />
+    <dimen name="album_cover_height" />
+    <dimen name="album_title_padding" />
+    <dimen name="songs_count_padding_bottom" />
+</resources>
